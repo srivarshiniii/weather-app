@@ -5,11 +5,11 @@ This project was bootstrapped with [Create React App]
 This is a simple weather application built using ReactJS. It fetches weather data from the OpenWeatherMap API and displays current weather conditions for any specified location. The app uses useState hooks for state management and react-icons for styling.
 
 # Features
-1.Fetches real-time weather data from OpenWeatherMap API 
-2.Displays temperature, weather conditions, and location 
-3.Input field for searching weather by city 
-4.Uses React hooks (useState) 
-5.Styled with react-icons and CSS
+1. Fetches real-time weather data from OpenWeatherMap API 
+2. Displays temperature, weather conditions, and location 
+3. Input field for searching weather by city 
+4. Uses React hooks (useState) 
+5. Styled with react-icons and CSS
 
 # Prerequisites
 You need to have Node.js and npm installed on your machine.  Obtain an API key from OpenWeatherMap and replace API_KEY in the Weather.js file.
